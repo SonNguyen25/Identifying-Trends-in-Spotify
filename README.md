@@ -1,5 +1,5 @@
 # Spotify Song Popularity Prediction
-A more detailed version of the report can be found in Phase4 pdf of the repository.
+A more detailed version of the report can be found in the Phase 4 pdf in the repository.
 ## Abstract
 This project focuses on identifying trends in songs on Spotify and predicting song popularity using machine learning. The data is sourced from Kaggle's Spotify Multi-Genre Playlists Data, covering seven different genres. Features such as acousticness, danceability, energy, and more are considered for analysis.
 
